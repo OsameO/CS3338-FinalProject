@@ -1,0 +1,10 @@
+*.log 
+docs/docs/User_Manual/
+src/styles.css/ 
+docs/docs/SRS*.docx! 
+!docs/docs/SRS_final.docx.
+docs/docs/SDS*.docsx! 
+!docs/docs/SDS_final.docx
+*-*.txt
+**/README*
+!/README*
